@@ -9,3 +9,5 @@ Please note : This is a project for experimental purpose only. Deployment in liv
 Run the HTTPListener on the terminal.
 <br />
 Then access [ipadress]:12001?operation=0
+<br />
+Add the IP address [space] IP address identifier (name) to the file clients.auth, to allow the client from that IP address to access the server.
